@@ -1,1 +1,2 @@
 This is the content in the remote repository 
+(VERSION 2 added remotly)
